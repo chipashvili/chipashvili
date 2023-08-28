@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Otto Chipashvili "
 title_separator          : "-"
 name                     : &name "Otto Chipashvili"
-description              : &description "PhD Student "
+description              : &description "PhD Student :)"
 url                      : https://chipashvili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -302,7 +302,8 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+#change theme
+minimal_mistakes_skin: "dirt"
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
